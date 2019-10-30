@@ -1,7 +1,7 @@
 #Readme title? (from github)
 
 This is the first line
-(a possible conflict - local)
+(a possible conflict - local) Solved
 And a second line
 
 an extra line
