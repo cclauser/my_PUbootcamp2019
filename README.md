@@ -6,4 +6,4 @@ And a second line
 
 an extra line
 
-(possible conflict?) github
+(possible conflict?) github SOLVED FROM LOCAL
